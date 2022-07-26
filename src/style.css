@@ -1,0 +1,133 @@
+
+*{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.containerPage{
+  display: flex;
+  flex-direction: row;
+  background-color: #eee;
+}
+.select{
+  background: #FFFFFF;
+  width:215px;
+height:45.2px;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+padding: 10px;
+border-radius: 0.5rem;
+border: none;
+margin-top: 90px;
+}
+.concursoName{
+  display: flex;
+  align-items: center;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF;
+}
+.containerInfos{
+  background-color: none;
+}
+.concurso{
+  font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+letter-spacing: 0.135em;
+padding-bottom: 14px;
+}
+.concursoDados{
+  font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+padding-bottom: 90px;
+}
+.containerNavBar{
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-width: 613px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 90px;
+  background-image: url('../src/assets/side.svg');
+}
+.containerNavBar1{
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-width: 613px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 90px;
+  background-image: url('../src/assets/side1.svg');
+}
+.containerNavBar2{
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-width: 613px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 90px;
+  background-image: url('../src/assets/side2.svg');
+}
+.containerNavBar3{
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-width: 613px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 90px;
+  background-image: url('../src/assets/side3.svg');
+}
+.containerNavBar4{
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-width: 613px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 90px;
+  background-image: url('../src/assets/side4.svg');
+}
+.containerNavBar5{
+  background-repeat: no-repeat;
+  height: 100vh;
+  min-width: 613px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 90px;
+  background-image: url('../src/assets/side5.svg');
+}
+
+.containerNumbers{
+
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+
+}
+.numbers{
+  width: 111px;
+  height: 106px;
+  border-radius: 50%;
+  margin-left: 35px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: 700;
+font-size: 27px;
+line-height: 33px;
+color: #333333;
+background-color: #fff;
+}
